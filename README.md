@@ -9,8 +9,5 @@ git clone https://github.com/ninelcatel/Linux_User_Log_Monitor.git
 cd Linux_User_Log_Monitor
 ```
 ```
-mkdir -p /home/userFS
-```
-```
 sudo chmod +x userfs.sh && sudo ./userfs.sh [hours to execute, 1 hour implicit]
 ```
